@@ -58,7 +58,7 @@
       <p>4. Isilan email yang valid contoh <b>Abdul.Malik@gmail.com</b></p>
       <p>5. Isilah Program Studi yang diminati</p>
       <p>Jika ada kendala dalam pengisian formulir hubungi nomor atau email di bawah ini</p>
-      <footer class="blockquote-footer"> sigap@gmail.com <cite title="Source Title">+62892111209</cite></footer>
+      <footer class="blockquote-footer"> sigap@gmail.com <cite title="Source Title">+6281586579205</cite></footer>
     </blockquote>
   </div>
 </div>
